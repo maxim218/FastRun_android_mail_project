@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FastRun</string>
+    <string name="title_text">FastRun</string>
+    <string name="start_game_btn_text">START GAME</string>
+    <string name="records_btn_text">RECORDS</string>
+    <string name="close_btn_text">CLOSE</string>
+    <string name="game_number_str">Game: 0</string>
+    <string name="score_number_str">Score: 0</string>
+</resources>
