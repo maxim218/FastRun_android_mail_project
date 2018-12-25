@@ -6,4 +6,22 @@
     <string name="close_btn_text">CLOSE</string>
     <string name="game_number_str">Game: 0</string>
     <string name="score_number_str">Score: 0</string>
+    <string name="news_label_text">News</string>
+    <string name="about_text">About</string>
+    <string name="russian">
+        Вы играете за чёрный кубик.
+        Вашей задачей является избегание белых кубиков.
+        При столкновении с белым кубиком игра заканчивается.
+        С течением времени количество набранных очков увеличивается.
+    </string>
+    <string name="english">
+        You play for the black cube.
+        Your task is to avoid white cubes.
+        The game ends when you face with white cubes.
+        Over time the number of points increases.
+    </string>
+    <string name="russianHeader">Описание игры</string>
+    <string name="englishHeader">About game</string>
+    <string name="header_label_text">header</string>
+    <string name="content_text_label">content</string>
 </resources>

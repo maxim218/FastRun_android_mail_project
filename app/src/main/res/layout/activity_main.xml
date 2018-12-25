@@ -54,4 +54,19 @@
         android:onClick="closeApp"
         android:layout_below="@+id/records_game_btn"/>
 
+    <Button
+        android:id="@+id/watch_news_btn"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:text="@string/about_text"
+        android:textSize="12sp"
+        android:layout_centerHorizontal="true"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_margin="15dp"
+        android:onClick="openAboutActivity"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
 </RelativeLayout>
