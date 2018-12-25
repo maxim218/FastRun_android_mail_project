@@ -24,4 +24,7 @@
     <string name="englishHeader">About game</string>
     <string name="header_label_text">header</string>
     <string name="content_text_label">content</string>
+    <string name="visit_label_text">visit</string>
+    <string name="visits_string_content">Visits</string>
+    <string name="content_str_label">Content</string>
 </resources>

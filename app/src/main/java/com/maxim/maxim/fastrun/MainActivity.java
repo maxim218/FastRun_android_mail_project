@@ -77,6 +77,11 @@ public class MainActivity extends AppCompatActivity {
         return Math.abs(rowID);
     }
 
+    public void openVisitsActivity(View view) {
+        Intent intent = new Intent(this, Main5Activity.class);
+        startActivity(intent);
+    }
+
     class DatabaseAsyncTask extends AsyncTask<Void, Void, Void>  {
         @Override
         protected Void doInBackground(Void... voids) {
